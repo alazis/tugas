@@ -48,11 +48,11 @@ III. Kasus (nilai 50):
 
 Jawaban
 
-I.  a. Kubernetes: Platform open-source berbasis Linux yang dirancang untuk mengotomatisasi penempatan,                       penskalaan, dan manajemen aplikasi yang berada dalam kontainer.
+I.  a. Kubernetes: Platform open-source berbasis Linux yang dirancang untuk mengotomatisasi penempatan, penskalaan, dan manajemen aplikasi yang berada dalam kontainer.
     b. kubectl: Sebuah baris perintah untuk menjalankan perintah terhadap Kubernetes
-    c. pod: Satu grup container instance. Kita bisa menjalankan beberapa container (misalnya aplikasi web          + redis cache + logging service) dalam satu pod. Antar container dalam satu pod bisa saling            mengakses dengan menggunakan alamat localhost.
+    c. pod: Satu grup container instance. Kita bisa menjalankan beberapa container (misalnya aplikasi web + redis cache + logging service) dalam satu pod. Antar container dalam satu pod bisa saling mengakses dengan menggunakan alamat localhost.
     d. docker compose: Berfungsi untuk menjalankan container docker secara bersamaan.
-    e. docker machine: Tool yang memungkinkan anda menginstall Docker Engine pada virtual hosts, dan                          mengelola hosts dengan command docker-machine.
+    e. docker machine: Tool yang memungkinkan anda menginstall Docker Engine pada virtual hosts, dan mengelola hosts dengan command docker-machine.
 
 II. a. Basic Object dari Kobernitas:
         - Pod
@@ -65,7 +65,7 @@ II. a. Basic Object dari Kobernitas:
         - StatefulSet
         - DaemonSet
         - Job
-    c. Controller dibangun berdasarkan basic object dan memberikan tambahan fungsionalitas dan fitur          kenyamanan. 
+    c. Controller dibangun berdasarkan basic object dan memberikan tambahan fungsionalitas dan fitur kenyamanan. 
 
 III. kubectl apply -f k8s
      

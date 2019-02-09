@@ -17,18 +17,18 @@ III. Kasus (nilai 50):
 
 Jawaban
 
-I.  a. Unikernel: Sebuah Virtual Machine yang memiliki satu Bahasa dan satu fungsi yang digunakan pada            environment yang minimal.
-    b. Dockerfile: script yang yang berisi dari serangkaian perintah yang akan dieksekusi secara otomatis    dan berurutan untuk membuat sebuah image.
+I.  a. Unikernel: Sebuah Virtual Machine yang memiliki satu Bahasa dan satu fungsi yang digunakan pada environment yang minimal.
+    b. Dockerfile: script yang yang berisi dari serangkaian perintah yang akan dieksekusi secara otomatis dan berurutan untuk membuat sebuah image.
     c. Docker Hub: Tempat penyimpanan public di mana developer dapat mengunggah dan mengunduh image.
     d. Dockerd: Proses yang terus-menerus untuk mengelola kontainer Docker dan menangani objects container.
     e. XaaS: Sejumlah layanan yang dikirimkan melalui Internet
 
-II. Docker-CE : Docker Community Edition adalah varian dari Docker yang diperuntukkan untuk developers dan                 small teams yang baru memulai menggunakan Docker dan melalukan experimenting dengan                        container-based apps. 
+II. Docker-CE : Docker Community Edition adalah varian dari Docker yang diperuntukkan untuk developers dan small teams yang baru memulai menggunakan Docker dan melalukan experimenting dengan container-based apps. 
     DockerCompose: Berfungsi untuk menjalankan container docker secara bersamaan.
 
     Jadi untuk menajalankan Docker-CE dibutuhkan Docker-Compose.
 
-III. Image docker dalam docker hub telah sedikit dimodifikasi beberapa configurasinya dan ditambahkan           beberapa tool didalamnya. 
+III. Image docker dalam docker hub telah sedikit dimodifikasi beberapa configurasinya dan ditambahkan beberapa tool didalamnya. 
 
 
 Tugas Akhir Semester
